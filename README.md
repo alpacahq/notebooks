@@ -3,11 +3,11 @@
 This repository is a collection of Jupyter notebooks using the Alpaca API. Below is a quick breakdown of what each notebook is intended to help with!
 
 ### Article Notebooks - How to Use the Alpaca API!
- - [Getting Started with the Alpaca API](https://github.com/alpacahq/notebooks/articles/get_started.ipynb): This notebook has all the details necessary to get started with Alpaca and how to research new ideas with market data, backtest strategies, and place trades.
+ - [Getting Started with the Alpaca API](https://github.com/alpacahq/notebooks/tutorials/get_started.ipynb): This notebook has all the details necessary to get started with Alpaca and how to research new ideas with market data, backtest strategies, and place trades.
 
- - [Using the Alpaca Market Data API](https://github.com/alpacahq/notebooks/articles/market_data_api.ipynb): This notebook explores the different historical data endpoints exposed, expand on the data response objects, and explain a simple use case for the Alpaca Market Data API.
+ - [Using the Alpaca Market Data API](https://github.com/alpacahq/notebooks/tutorials/market_data_api.ipynb): This notebook explores the different historical data endpoints exposed, expand on the data response objects, and explain a simple use case for the Alpaca Market Data API.
 
- - [Simulating Order Types with the Alpaca API](https://github.com/alpacahq/notebooks/articles/order_types.ipynb): This notebook is a tutorial on how to simulate every type of order (market, limit, stop, etc.) with the Alpaca API. It includes even more advanced order types such as bracket orders and one-cancels-other orders.
+ - [Simulating Order Types with the Alpaca API](https://github.com/alpacahq/tutorials/articles/order_types.ipynb): This notebook is a tutorial on how to simulate every type of order (market, limit, stop, etc.) with the Alpaca API. It includes even more advanced order types such as bracket orders and one-cancels-other orders.
 
 ### Strategy Notebooks - Using the Alpaca API to Build Trading Strategies!
  - [DeX and CeX Arbitrage Bot](https://github.com/alpacahq/notebooks/blob/master/strategies/DeX_CeX_Arb.ipynb): Learn how to build a crypto arbitrage bot that trades when the price of an asset is different on a centralized exchange versus a decentralized exchange. The link to the associated article is [Crypto Arbitrage on Decentralized and Centralized Exchanges](https://alpaca.markets/learn/arbitrage-on-decentralized-exchange-centralized-exchange/).
